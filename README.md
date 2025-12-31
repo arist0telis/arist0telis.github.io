@@ -1,3 +1,5 @@
+<img src="./assets/profile_pic.jpg" alt="Aristotelis Savas" style="border-radius: 50%; width: 150px; height: 150px;">
+
 # About Me
 
 > I’m the engineer teams call when things get complicated, confusing, or just a little chaotic (but no, I won’t fix your printer).
